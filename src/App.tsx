@@ -4,7 +4,7 @@ import { Button } from "./components/ui/button";
 
 console.log("Me he montado correctamente");
 
-const POMODORO_TIME = 1 * 60;
+const POMODORO_TIME = 25 * 60;
 
 export const App = () => {
   // Variables
